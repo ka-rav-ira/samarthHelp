@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215027397551",
+    "project_id": "samarthhelp-205cc",
+    "storage_bucket": "samarthhelp-205cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215027397551:android:f8f2c4111263b6b74c755a",
+        "android_client_info": {
+          "package_name": "com.example.samarthhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215027397551-r2ifc8oocmk63cns57vkv80530bamu90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQAXsPhSqEn4suK47QqkYNPFJK0BfkRO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215027397551-r2ifc8oocmk63cns57vkv80530bamu90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
